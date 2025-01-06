@@ -1,0 +1,3 @@
+# 5 floors, 10 steps to simulate
+5 10
+2 3 1
